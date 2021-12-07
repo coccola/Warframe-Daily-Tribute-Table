@@ -1,5 +1,5 @@
 # This Project
-In the **Warframe** online game published by **Digital Extremes**, a reward is earned on the first login of a day, and the rewards increase according to the amount of days logged in. This project's objective is creating a table (PDF file) that shows how the rewards increase with login days.
+In the **Warframe** online game published by **Digital Extremes**, a reward is earned on the first login of a day, and the rewards increase according to the amount of days logged in. The objective of this project is creating a table (PDF file) that shows how the rewards increase with login days.
 
 # Considerations
 * Only the rewards that increase with login days are listed; there are other possible rewards.
